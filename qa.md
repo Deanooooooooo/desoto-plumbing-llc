@@ -28,4 +28,7 @@
 - Footer Facebook: PASS.
 - Footer Google Maps: PASS.
 - Local screenshots: PASS, desktop hero/proof/contact/footer and mobile hero captured.
-- Live deployment and live QA: pending.
+- Live deployment: PASS, `https://deanooooooooo.github.io/desoto-plumbing-llc/`.
+- Live HTML/CSS/hero image: PASS, HTTP 200.
+- Live one H1/one form/hero marker/footer socials: PASS.
+- Bad phrase grep: PASS.
